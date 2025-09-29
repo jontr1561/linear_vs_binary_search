@@ -1,0 +1,1 @@
+This program generates an array of a specific size filled with randomized integers. Linear search and Binary search is performed on the array for a specific integer within the array. The time it takes to find the integer is recorded for each method. Binary search and linear search time is compared to one another.
